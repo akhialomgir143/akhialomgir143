@@ -1,4 +1,4 @@
-- 👋 Hi, I’m <h2>Akhi Alomgir</h2>
+ <h2> - 👋 Hi, I’m Akhi Alomgir</h2>
 
 <!---
 akhialomgir143/akhialomgir143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
